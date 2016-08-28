@@ -23,11 +23,13 @@ On the flip side, I really am enjoying the extra credit of this course. Self ref
 
 #### Tip of the Week
 > Programs must be written for people to read, and only incidentally for machines to execute.
+Quoted from the preface of [Structure and Interpretation of Computer Programs][book-url]
 
 
-[fraij-link]: https://www.linkedin.com/in/fares-fraij-1b512929
-[collatz-wiki]: https://en.wikipedia.org/wiki/Collatz_conjecture
-[collatz-graph]: http://swimmingthestyx.com/wp-content/uploads/2014/01/CollatzTree_100000.png
-[gh-url]: https://pages.github.com/
-[jekyll-url]: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+[fraij-link]: 		https://www.linkedin.com/in/fares-fraij-1b512929
+[collatz-wiki]: 	https://en.wikipedia.org/wiki/Collatz_conjecture
+[collatz-graph]: 	http://swimmingthestyx.com/wp-content/uploads/2014/01/CollatzTree_100000.png
+[gh-url]: 			https://pages.github.com/
+[jekyll-url]: 		https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+[book-url]: 		https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-7.html
 

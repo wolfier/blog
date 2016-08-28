@@ -22,4 +22,10 @@ Visit my [blog][blog-url]
 #### Blocking text 
 This is an `example` of a blocked text
 
+#### Helpful Links
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+[Jekyll Tips](http://jekyll.tips/jekyll-cheat-sheet/)
+
 [blog-url]:  https://wolfier.github.io/blog/
