@@ -20,9 +20,10 @@ description: > # this means to ignore newlines until "baseurl:"
   then fall down to the next unsuspecting line. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://wolfier.github.io" # the base hostname & protocol for your site
-twitter_username: packagedwolf
 github_username:  wolfier
 
 # Build settings
 markdown: kramdown
 theme: minima
+
+google_analytics: UA-83242184-1
