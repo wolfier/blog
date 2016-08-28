@@ -14,7 +14,7 @@ print_hi('Tom')
 {% endhighlight %}
 
 #### Embedding an Image 
-![Puppy]({{ site.baseurl }}/_assets/puppy.jpg)
+![Puppy]({{ site.baseurl }}/assets/puppy.jpg)
 
 #### Embedding a Link
 Visit my [blog][blog-url]
