@@ -28,4 +28,7 @@ This is an `example` of a blocked text
 
 [Jekyll Tips](http://jekyll.tips/jekyll-cheat-sheet/)
 
+
+[Custom Head, Header, and Footer](https://www.taniarascia.com/make-a-static-website-with-jekyll/)
+
 [blog-url]:  https://wolfier.github.io/blog/
