@@ -23,6 +23,7 @@ On the flip side, I really am enjoying the extra credit of this course. Self ref
 
 #### Tip of the Week
 > Programs must be written for people to read, and only incidentally for machines to execute.
+
 Quoted from the preface of [Structure and Interpretation of Computer Programs][book-url]
 
 
