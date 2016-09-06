@@ -5,9 +5,13 @@ date:   2016-09-06 13:24:00 -0500
 categories: swe collatz
 ---
 
-As the past week went by in a flash, I accomplished the impossible. The joyous moment when I saw "accepted" in white underneath the black pit of darkness that is [Sphere][sphere-problem], I shed one tear. One that is very manly liquid tear. Of course, I took the liberty to screenshot what is comparable to a trophy to me at this point. As the age old [adage][adage-link] goes, "This too shall pass".
+As the past week went by in a flash, I accomplished the impossible. The joyous moment when I saw "accepted" in white underneath the black pit of darkness that is [Sphere][sphere-problem], I shed one tear. One that is very manly liquid tear. Of course, I took the liberty to screenshot what is comparable to a trophy to me at this point. 
 
 ![And it did, eventually]({{ site.baseurl }}/assets/sphere_ac.png)
+
+As the age old [adage][adage-home] goes, 
+
+>This too shall pass.
 
 You couldn't imagine what I went through to get those words to appear on my screen. I tried various optimizations: recursion, lazy and eager caching, limiting the range of calculation, and bitwise operators. BUT none of them worked or so I thought. "TLE, Time Limit Exceeded" or "NZEC, Non-Zero Exit Code" are what returned with each submission...and each time my heart breaks a little. I really wish they provided better outputs but that defeats the purpose of the online judge. In the end, my submission was finally accepted due to something I think is trivial and unconsequential to have. I simply switched my loop to run from low to high and that for reason solved my issue... 
 
