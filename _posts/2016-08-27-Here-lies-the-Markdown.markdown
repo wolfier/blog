@@ -3,6 +3,8 @@ layout: post
 title:  "Here lies the Markdown"
 date:   2016-08-27 15:21:04 -0500
 categories:
+---
+
 #### Ruby Code Snippet
 {% highlight ruby %}
 def print_hi(name)
