@@ -11,7 +11,7 @@ I have a couple of complaints about how the first project was managed after goin
 
 * TAs should clarify submission details at the release of the project, not the day of submission.
 * Lines that determines whether the submission is valid should not be commented out.
-* Points should not be deducted due to this error, because my tests were in the public test repo as outline in the project page.
+* Points should not be deducted due to this error, because my tests were in the public test repo as outlined in the project page.
 
 Putting the whole Collatz fiasco behind me, I looked into the next [project][netflix-project] titled 'Netflix'. I noticed we are able to pick partners on this assignment, which I am very happy about! Having a second pair of eyes really improves the quality of code and reduces the amount of bugs and blindspots. I hope future projects gives us the option to work in teams as well because this class is suppose to give us experiences as close to real world as possible. Team work is essential in the workplace as I have noticed in past internships. It is something that is highly coveted in a communicative profession. You need to be able to convey your idea in writing and to each other without accidentally creating pitfalls and misunderstandings. Project content wise, I think I understand what we are suppose to do but the question is how we can do it. There also seems to be missing links to the codebase on the project page. However, I anticipate all these questions will be answered in the next class.
 
