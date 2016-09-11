@@ -2,7 +2,7 @@
 layout: post
 title:  "First build then serve"
 date:   2016-08-27 16:18:40 -0500
-categories: swe collatz
+categories:
 ---
 
 Prior to the first day of class, I did some research into what this course consisted of in the past semesters, mainly to see if there was any exams if I must be frank. However, [Professor Fraij][fraij-link] had not taught Software Engineering at UT before, only Algorithms. Anyhow I have heard some good reviews and some not so good reviews regarding his lecturing style. After attending his lecture for the first time, I noticed some monotonal speech pattern the students mentioned, though it was a positive experience overall. I'm sure as the semester goes on, we will warm up to him and hopefully the same for Professor Fraij too with us.

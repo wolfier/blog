@@ -2,7 +2,7 @@
 layout: post
 title:  "On the Brink of Collatz"
 date:   2016-09-06 13:24:00 -0500
-categories: swe collatz
+categories:
 ---
 
 As the past week went by in a flash, I accomplished the impossible. The joyous moment when I saw "accepted" in white underneath the black pit of darkness that is [Sphere][sphere-problem], I shed one tear. One that is very manly liquid tear. Of course, I took the liberty to screenshot what is comparable to a trophy to me at this point. 
