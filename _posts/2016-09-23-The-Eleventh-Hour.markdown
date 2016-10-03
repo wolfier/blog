@@ -24,4 +24,4 @@ Never hesitate to reach out to recruiters and engineers. Most of the time, they 
 
 [netflix-project]:	http://www.cs.utexas.edu/~fares/cs373f16/CS%20373_files/projects/Netflix.html
 [netflix-overview]: http://blog.echen.me/2011/10/24/winning-the-netflix-prize-a-summary/
-[netflix-paper]: http://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
+[netflix-paper]: 	http://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
