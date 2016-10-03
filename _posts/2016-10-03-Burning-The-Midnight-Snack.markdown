@@ -5,7 +5,7 @@ date:   2016-10-03T12:23:00Z
 categories:
 ---
 
-In the beginning of the week, classees were pretty straight forward. We went over python syntax and semantics. Structure of the class remained the same aside from the detour into a discussion of `Closures` in python.
+In the beginning of the week, classes were pretty straight forward. We went over python syntax and semantics. Structure of the class remained the same aside from the detour into a discussion of `Closures` in python.
 
 The latter half of my week seemed like it lasted forever. I had one interviews with [Amazon][amazon] and another one with [FiveStars][five-stars]. They both went poorly from my perspective. For Amazon, the workplace simulation was fairly straight forward. It gauged problem assessment, long-term planning abilities, and various workplace etiquettes and resource engagement. After the simulation, three technical problems followed, which were of medium difficulty. However, I was not able to complete them due to my lapse of judgment of scheduling the FiveStars interview right after and estimating the Amazon interview would last a shorter period of time. So right after I went into the phone interview with FiveStars, very flustered I might add. The interviewer was really understanding and communicative, which helped me understand and solve the problem in the end. Though I felt like I took a little longer than I should have. Regardless, I tried my best and all I can do now is wait for replies.
 
