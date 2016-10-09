@@ -26,4 +26,6 @@ github_username:  wolfier
 markdown: kramdown
 theme: minima
 
+# Google Analytics Key
 google_analytics: UA-83242184-1
+
