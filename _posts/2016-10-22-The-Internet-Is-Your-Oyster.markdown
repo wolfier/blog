@@ -12,7 +12,7 @@ During these all nighters, I remodeled the site to serve client side instead of 
 
 While transitioning to majority client side work, I also modified the frontend too. Using bootstrap and some CSS magic, the site has some modern elements that caters to web applciations today. Most of the work, simliar to the backend code, were done through experiementing and, frankly, tons of googling. Going back to the title of the post, "The Internet is your Oyster", the whole world wide web is at your disposal. With the help of browser consoles, you can see network traffic, disable caching, and most importantly manipulate the DOM and CSS. If you see something interesting that a website implemented, go into their css and javascript and see what library they are using. Perhaps, it is open source and you can leverage that on your website! 
 
-With the next project approaching, I am looking forward to exchanging roles with my teammates so everyone is better accomodated as well as learning new layers of the tech stack. Of course, lesson learned, we will start earlier this week to prevent these heart stopping final hours in the GDC from occuring. 
+With the next project approaching, I am looking forward to exchanging roles with my teammates so everyone is better accomodated as well as learning new layers of the tech stack. Of course, lesson learned, we will start earlier this week to prevent these heart stopping final hours in the GDC from occuring. Also if you are curious about the site that I have been talking about so much in the past posts, here a [link][boilerpl8] to our database site, Boilerpl8. The web application is aimed to track reciepes of various cusines to help you explore and prepare for new dishes for everyone!
 
 #### Tip of the Week
 If you are working on frontend, [Chrome DevTools][chrome-dev] is your best friend. You can disable caching in the network tab. You can manipulate the DOM and CSS. You can change the screen size to emulate a desired device's screen. There are many more features the tool provides so go explore! To start, press `F12` for Windows or `Cmd + Opt + I` for Macs.
@@ -22,9 +22,12 @@ If you are working on frontend, [Chrome DevTools][chrome-dev] is your best frien
 
 [Next Project][project-two]
 
+[Boilerpl8][boilerpl8]
+
 [project-two]:		http://www.cs.utexas.edu/~fares/cs373f16/CS%20373_files/projects/IDB2.html
 [bootstrap]:		https://getbootstrap.com/
 [chrome-dev]:		https://developers.google.com/web/tools/chrome-devtools/
 [reddit]:			https://www.reddit.com/
 [twitch]:			https://www.twitch.tv/
 [which-one]:		http://stackoverflow.com/questions/23074875/angularjs-factory-and-service
+[boilerpl8]:		http://boilerpl8.me/
