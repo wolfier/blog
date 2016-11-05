@@ -14,28 +14,28 @@ There are a few new features implemented this iteration. Linkage between cuisine
 Now after making this database focused application, I am inspired to build my own web page from scratch using the very same technology. Before, I paid for a web hosting service that had very little customization or control. With full access of digital ocean droplets, I am able to do much much more.
 
 #### Tip of the Week
-I am not sure on how I can survive without the help of the internet (there's always books I suppose, but think about the paper). All these online resources are available to me at a click of a button. To help you find these resources, you should learn these [search operators](search) for google search and take a look at this [guide](smart-google) on effective googling.
+I am not sure on how I can survive without the help of the internet (there's always books I suppose, but think about the paper). All these online resources are available to me at a click of a button. To help you find these resources, you should learn these [search operators][search] for google search and take a look at this [guide][smart-google] on effective googling.
 
 #### Helpful Links
 With Stage Three coming up, you should start thinking about what other student-made website you want to incorporate. Here are the websites available.
 
-[Boilerpl8](Boilerpl8)
+[Boilerpl8][Boilerpl8]
 
-[Litdb](Litdb)
+[Litdb][Litdb]
 
-[Video Game Character DB](VGDB)
+[Video Game Character DB][VGDB]
 
-[iMusicDB](iMusicDB)
+[iMusicDB][iMusicDB]
 
-[PokemonDB](PokemonDB)
+[PokemonDB][PokemonDB]
 
-[ResearchPapersDB](ResearchPapersDB)
+[ResearchPapersDB][ResearchPapersDB]
 
-[BestBytes](BestBytes)
+[BestBytes][BestBytes]
 
 [search]: 					https://support.google.com/websearch/answer/2466433?hl=en
 [smart-google]:				https://d3rgj9au57pk8c.cloudfront.net/uploaded/attachments/11080.gif
-[Boilerpl8]:				http://boilerpl8.me/
+[Boilerpl8]:				http://www.boilerpl8.me/
 [Litdb]:					http://litdb.me/
 [VGDB]:						http://vgidb.me/
 [iMusicDB]:					http://www.imusicdb.me/
