@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Filtered Reflections"
+date:   2016-11-11T11:21:00Z
+categories:
+---
+
+We are nearing an end to this journey of making a web application that emulates the functionalities of [IMDB][imdb] but with a twist. Instead of movies and actors, we came up with our own pillars of related focuses, which consisted cuisines, recipes, and ingredients. While a cuisine is made up of many recipes, a recipe in the same vein requires many ingredients and an ingredient can be used in many recipes. These attributes and relationships between the pillars construct a well-linked database that underscores how they weave together as a whole. In a sense, this project is a reflection of the dynamic between team members through supporting each other. I am really impressed with what we accomplished together. Anthony, Jessica, Seth, Zach, and I, we laughed together, we struggled together, we made the website together! but we can't celebrate yet, there are still a few more steps.
+
+For the final stage, to round up and polish the application, search needs to be implemented. There are two approaches we can take. 
+We can filter at the database level through SQL statements or at the client level with angular's filter expression. Since we are operating on such a low load plus a very small and fairly static database, either way works. However, in reality, the decision rests on the requirements of the scope, eloquently explained [here][implementation]. Aside from the search, this stage also requires more documentation and a presentation to sum up our whole journey in creating the application to showcase to our peers. Oddly, for the last sprint, we have to make user stories. I feel like they belonged in the earlier stages to better simulate the agile workflow. The problem was Github issues were used in place of user stories, which were written more to describe the desired outcome than an actual issue with the application.
+
+One of the requirements that I found to be very useful is the critique we are writing for another group. The critique consists of preliminary questions on their application as a whole and offers improvements for future development. Team Spook is evaluating team Pokemans' Pokemon API. Following are my own opinions that are to be incorporated with the rest of my teammates. I think they built a solid database for browsing pokemons in various regions. Each pokemon has a detailed view that is mostly flavour text with some game mechanic related fields. What disappointed me was the lack of any game related information, even though there are sections made for them, such as "Moves". Aside from knowing which pokemons are in each region or translated as game titles, the application tells me very little if the flavour text doesn't concern me. On the other hand, they do have the library of moves in the game just not associated with the pokemon themselves. If they fix that and add in details like type defenses, base stats, or even better the locations of which I can catch them in each region, I think then the application would be a useful tool for players. Overall the design of the website was simple and straightforward, which is perfect for information-heavy applications. I want to find the information fast and find the right ones.
+
+Next week as proposed, we will finish up the functionality, polish up the designs, and resolve any leftover issues. Again, I want to thank my team for sticking with me till the end. 
+
+#### Tip of the Week
+As the title suggests, our reflections on any subject is only as good as what we allow ourselves to see. To combat this issue, get many opinions from a variety of sources for a well-rounded sample to better ourselves, which this stage attempted by having us utilize and critique another group's application. 
+
+[imdb]:					http://www.imdb.com/
+[implementation]:		https://www.quora.com/Should-filtering-be-done-on-the-client-side-by-searching-through-an-array-of-all-data-in-the-database-or-should-it-be-done-on-the-server-level-by-only-returning-data-relevant-to-the-filters
