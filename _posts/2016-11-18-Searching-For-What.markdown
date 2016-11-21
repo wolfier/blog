@@ -16,4 +16,4 @@ Overall, the project was the most enjoyable and valuable part of the course. I g
 #### Tip of the Week
 While it is important to be an innovator, don't forget to draw inspiration from others. Get out there and see what people have done and perhaps incorporate them into your own developement process. 
 
-[foods]:	boilerpl8.me 
+[foods]:	http://boilerpl8.me 
