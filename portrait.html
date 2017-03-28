@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="home">
+  <ul class="post-list">
+    {% for file in site.static_files %}
+      {% if file.path contains 'assets/portrait' %}
+        <span class="art-title">{{file.basename}}</span>
+        <img src="{{ /file.path | prepend: site.baseurl }}" alt="image" />
+        <span class="art-separator"></span>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
