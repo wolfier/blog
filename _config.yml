@@ -30,5 +30,6 @@ theme: minima
 # Google Analytics Key
 google_analytics: UA-83242184-1
 
+#page structure
 include: ["_pages"]
 permalink: /:title/
