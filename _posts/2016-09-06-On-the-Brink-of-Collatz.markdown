@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On the Brink of Collatz"
-date:   2016-09-06 13:24:00 -0500
+date:   2016-09-06T13:24:00Z
 categories:
 ---
 

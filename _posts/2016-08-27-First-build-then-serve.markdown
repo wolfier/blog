@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First build then serve"
-date:   2016-08-27 16:18:40 -0500
+date:   2016-08-27T16:18:40Z
 categories:
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sunny in San Francisco"
-date:   2016-09-18 17:43:00 -0500
+date:   2016-09-18T17:43:00Z
 categories:
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Here lies the Markdown"
-date:   2016-08-27 15:21:04 -0500
+date:   2016-08-27T15:21:04Z
 categories:
 ---
 
@@ -15,7 +15,7 @@ print_hi('Tom')
 {% endhighlight %}
 
 #### Embedding an Image 
-![Puppy]({{ site.baseurl }}/assets/puppy.jpg)
+![headshot](/assets/headshot.jpg)
 
 #### Embedding a Link
 Visit my [blog][blog-url]

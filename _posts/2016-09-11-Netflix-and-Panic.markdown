@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Netflix and Panic"
-date:   2016-09-11 12:09:00 -0500
+date:   2016-09-11T12:09:00Z
 categories:
 ---
 
