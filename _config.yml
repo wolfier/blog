@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 tab_title: "Alan's Website"
-title: "Alan Ma: Data/Artist"
+title: "Alan Ma: Data(rt)"
 email: alanma0907@utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
   Data is only as meaningful as the subject deems.
