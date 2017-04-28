@@ -10,3 +10,8 @@
     padding: 1px 0;
     background-color: black;
 }
+
+.home-text {
+	line-height: 72px;
+	font-size: 58px;
+}
