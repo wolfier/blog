@@ -1,0 +1,20 @@
+---
+layout: default
+title: photography
+permalink: /photography/
+---
+
+<div class="home">
+	<p style="font-size: 118px;">
+		Gotcha.
+	</p>
+	<ul class="post-list">
+		{% for file in site.static_files %}
+		{% if file.path contains 'photography/image' %}
+			<span class="art-title">{{file.basename}}</span>
+			<img src="{{ file.path }}" alt="image" />
+			<span class="art-separator"></span>
+		{% endif %}
+		{% endfor %}
+	</ul>
+</div>
