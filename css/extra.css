@@ -15,3 +15,7 @@
 	line-height: 72px;
 	font-size: 58px;
 }
+
+.about-table th{
+	text-align: left;
+}
